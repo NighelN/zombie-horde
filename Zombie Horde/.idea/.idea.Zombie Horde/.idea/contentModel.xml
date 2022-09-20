@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nighel Nijhuis\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nighel Nijhuis\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Zombie Horde.1281845223.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Nighel Nijhuis\Desktop\zombie_horde\Zombie Horde" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BuildingScripts" t="Include">
+            <e p="BuildingObject.cs" t="Include" />
+            <e p="BuildingSystem.cs" t="Include" />
+          </e>
+          <e p="Crafting" t="Include">
+            <e p="CraftingRecipe.cs" t="Include" />
+            <e p="CraftingUI.cs" t="Include" />
+            <e p="CraftItem.cs" t="Include" />
+          </e>
+          <e p="DayNightCycle" t="Include">
+            <e p="DayNightCycle.cs" t="Include" />
+          </e>
+          <e p="EnemyScripts" t="Include">
+            <e p="EnemyAttack.cs" t="Include" />
+            <e p="EnemyHealth.cs" t="Include" />
+            <e p="EnemyMovement.cs" t="Include" />
+            <e p="EnemyObject.cs" t="Include" />
+            <e p="EnemySpawner.cs" t="Include" />
+            <e p="EnemyWaveSystem.cs" t="Include" />
+          </e>
+          <e p="Food" t="Include">
+            <e p="Food.cs" t="Include" />
+          </e>
+          <e p="GameManager.cs" t="Include" />
+          <e p="Highscore" t="Include">
+            <e p="Highscore.cs" t="Include" />
+            <e p="HighscoreEntry.cs" t="Include" />
+          </e>
+          <e p="InputManager.cs" t="Include" />
+          <e p="Items" t="Include">
+            <e p="Item.cs" t="Include" />
+            <e p="ItemData.cs" t="Include" />
+          </e>
+          <e p="Json" t="Include">
+            <e p="JsonHandler.cs" t="Include" />
+            <e p="JsonHelper.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="CurrentPlayerScript.cs" t="Include" />
+            <e p="CursorScript.cs" t="Include" />
+            <e p="Inventory" t="Include">
+              <e p="Container.cs" t="Include" />
+              <e p="DragHandler.cs" t="Include" />
+              <e p="DragSlot.cs" t="Include" />
+              <e p="HotbarUI.cs" t="Include" />
+              <e p="InventoryUI.cs" t="Include" />
+            </e>
+            <e p="Player.cs" t="Include" />
+            <e p="PlayerAiming.cs" t="Include" />
+            <e p="PlayerAttack.cs" t="Include" />
+            <e p="PlayerHealing.cs" t="Include" />
+            <e p="PlayerHealth.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+          </e>
+          <e p="RandomLevelGenerator" t="Include">
+            <e p="MapSizeSelector.cs" t="Include" />
+            <e p="RandomLevelGenerator.cs" t="Include" />
+            <e p="SetMapSizeScript.cs" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="ResourceObject.cs" t="Include" />
+            <e p="ResourceSystem.cs" t="Include" />
+          </e>
+          <e p="Sounds" t="Include">
+            <e p="SoundPlayer.cs" t="Include" />
+            <e p="Sounds.cs" t="Include" />
+          </e>
+          <e p="Tooltips" t="Include">
+            <e p="ToolTip.cs" t="Include" />
+            <e p="ToolTipSystem.cs" t="Include" />
+          </e>
+          <e p="Tutorial" t="Include">
+            <e p="TutorialResources.cs" t="Include" />
+            <e p="TutorialSpawnZombies.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="GameOverScript.cs" t="Include" />
+            <e p="HideCursorScript.cs" t="Include" />
+            <e p="IdleMenuScript.cs" t="Include" />
+            <e p="LoadAudioVolume.cs" t="Include" />
+            <e p="LoadSceneScript.cs" t="Include" />
+            <e p="OpenPauseMenu.cs" t="Include" />
+            <e p="PauseMenuSaveHighScore.cs" t="Include" />
+            <e p="QuitGameScript.cs" t="Include" />
+            <e p="SetAudioVolume.cs" t="Include" />
+          </e>
+          <e p="Weapon" t="Include">
+            <e p="Guns" t="Include">
+              <e p="Bullet.cs" t="Include" />
+              <e p="Gun.cs" t="Include" />
+              <e p="GunData.cs" t="Include" />
+              <e p="Guns.cs" t="Include" />
+              <e p="WeaponData.cs" t="Include" />
+            </e>
+            <e p="Tools" t="Include">
+              <e p="Tool.cs" t="Include" />
+              <e p="ToolData.cs" t="Include" />
+              <e p="Tools.cs" t="Include" />
+            </e>
+            <e p="Weapon.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ThirdParty Assets" t="Include">
+          <e p="ZombieHorrorPackageFree" t="Include">
+            <e p="Note.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Zombie Horde.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

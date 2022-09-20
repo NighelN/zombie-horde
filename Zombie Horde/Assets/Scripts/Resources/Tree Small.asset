@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 622cb08290c084945a0f995fdd968541, type: 3}
+  m_Name: Tree Small
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: 2ec70545f2f11c4449843d13f487b050, type: 2}
+  itemsGivenPerHit:
+  - item: {fileID: 11400000, guid: 31b77724518efbe45879ab3f6bff2c58, type: 2}
+    amount: 1
+  durability: 5
+  toolDamage: 3
+  particleEffect: {fileID: 6136025493102144356, guid: 7486475738325224eb02c00444c3690c,
+    type: 3}
+  hasShadows: 1
+  height: 1

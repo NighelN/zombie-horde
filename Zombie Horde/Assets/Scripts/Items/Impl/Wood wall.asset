@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd5e205ff8f256341a9ca7e72ed0bd3a, type: 3}
+  m_Name: Wood wall
+  m_EditorClassIdentifier: 
+  itemId: 7
+  uiSprite: {fileID: -3861431801627392865, guid: 4f32daebbfe125a4da9dcb07c3e6d842,
+    type: 3}
+  itemName: Wood wall
+  itemDescription: A structure for building walls.
+  stackable: 1
+  gun: {fileID: 0}
+  tool: {fileID: 0}

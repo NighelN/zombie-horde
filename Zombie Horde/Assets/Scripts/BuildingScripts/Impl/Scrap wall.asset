@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c96e72bb8e492d24988ed3c254937ad2, type: 3}
+  m_Name: Scrap wall
+  m_EditorClassIdentifier: 
+  item:
+    item: {fileID: 11400000, guid: bcc436adf14263345b44b853a1ba7979, type: 2}
+    amount: 1
+  structureHealth: 150
+  tile: {fileID: 11400000, guid: 55ff9ceec6ab8724e800d4cdc2218839, type: 2}
+  tilesToBuildOn:
+  - {fileID: 11400000, guid: 279819d9c05b44e40bce10bbd43371d9, type: 2}
+  - {fileID: 11400000, guid: a5da7d7bb59c0fa4387f66d629ce7b34, type: 2}
+  - {fileID: 11400000, guid: 2b0f680aca9e93d48acc949c273366a8, type: 2}
+  - {fileID: 11400000, guid: 4a4ad0a6264f799459c4b750aad36b95, type: 2}
+  - {fileID: 11400000, guid: 0ce785b9c9848dd4eb61363f75ed6962, type: 2}
+  - {fileID: 11400000, guid: 224e11cbd2b98eb468d562af1c655566, type: 2}
+  - {fileID: 11400000, guid: 3447723fbb051a245b439f5a8a3c23f2, type: 2}
+  - {fileID: 11400000, guid: 55319368108a519448da7c45dec2e04b, type: 2}
+  - {fileID: 11400000, guid: dd53b5f6bc4a2244b91120683226f350, type: 2}
+  - {fileID: 11400000, guid: 1eb4b63fd54a24b4f95cf455255f7ba5, type: 2}
+  particleEffect: {fileID: 2647112609540034878, guid: 0980e47c0136ae54085529ae5c91a24f,
+    type: 3}

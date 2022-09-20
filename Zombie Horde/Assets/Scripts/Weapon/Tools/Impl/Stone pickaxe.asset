@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ca1ebebb304dcd40ac76681333c9653, type: 3}
+  m_Name: Stone pickaxe
+  m_EditorClassIdentifier: 
+  item: {fileID: 11400000, guid: 6792ecd61fd617e43bb3439d86c4db04, type: 2}
+  weaponType: 0
+  weaponSprite: {fileID: -7974677730666233881, guid: c4332602fc136bb43836266582549c07,
+    type: 3}
+  weaponSpriteHand: {fileID: 21300000, guid: 409dca25b3f351c4889ead68f1b4d61f, type: 3}
+  weaponName: Stone Pickaxe
+  weaponSpeed: 3
+  movementSpeed: 10
+  twoHanded: 1
+  weaponDurability: 100
+  weaponDamage: 4
+  resourceType:
+  - {fileID: 11400000, guid: aa5d04aa39759a54d856e3e149b71655, type: 2}
+  - {fileID: 11400000, guid: 429faecce4a7a7f449e7a13562b5f6cb, type: 2}

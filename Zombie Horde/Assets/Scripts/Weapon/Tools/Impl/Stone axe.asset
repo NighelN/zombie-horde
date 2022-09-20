@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ca1ebebb304dcd40ac76681333c9653, type: 3}
+  m_Name: Stone axe
+  m_EditorClassIdentifier: 
+  item: {fileID: 11400000, guid: 02fe4d647d93e834580358b66d1663bb, type: 2}
+  weaponType: 0
+  weaponSprite: {fileID: -5222295263699582268, guid: c4332602fc136bb43836266582549c07,
+    type: 3}
+  weaponSpriteHand: {fileID: -893572145044121764, guid: 4f32daebbfe125a4da9dcb07c3e6d842,
+    type: 3}
+  weaponName: Stone axe
+  weaponSpeed: 3
+  movementSpeed: 10
+  twoHanded: 1
+  weaponDurability: 100
+  weaponDamage: 4
+  resourceType:
+  - {fileID: 11400000, guid: 43b1ef37c78585d4f8dceeb1aec26024, type: 2}
+  - {fileID: 11400000, guid: d7708bdbe33c58c4999a27a46d4d50a8, type: 2}
+  - {fileID: 11400000, guid: 384085d2cdba65843939b5629ff266c7, type: 2}

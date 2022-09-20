@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa1d2a9952718b8469e42620ef0c1546, type: 3}
+  m_Name: Handgun
+  m_EditorClassIdentifier: 
+  item: {fileID: 11400000, guid: 28f18f47209422e49865d1d85a5e0b7e, type: 2}
+  weaponType: 1
+  weaponSprite: {fileID: 21300000, guid: fe579941f8807ba4c830fe0fe0ba4bc9, type: 3}
+  weaponSpriteHand: {fileID: 2077393603658830619, guid: 4f32daebbfe125a4da9dcb07c3e6d842,
+    type: 3}
+  weaponName: Handgun
+  weaponSpeed: 5.87
+  movementSpeed: 10
+  twoHanded: 0
+  weaponDurability: 100
+  weaponDamage: 5
+  tooltip: {fileID: 11400000, guid: ac7e57138f8742b4e8783551c62d30cb, type: 2}
+  bullets: {fileID: 11400000, guid: 01aa8dcc6b9360a4793426af872b9cf3, type: 2}
+  maxBullets: 15
+  reloadSpeed: 2.2
+  bulletMovementSpeed: 20
+  durabilityDamage: 1
